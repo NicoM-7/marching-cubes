@@ -2,6 +2,12 @@
 
 A 3D isosurface visualizer built with OpenGL that uses the Marching Cubes algorithm to generate and render triangle meshes from volumetric scalar fields. Supports interactive camera controls, Phong-shaded lighting, and exports the resulting mesh to a `.ply` file for further use.
 
+## Preview
+
+![Marching Cubes Screenshot 1](Screenshots/surface1.png)  
+![Marching Cubes 2](Screenshots/surface2.png)  
+
+
 ## Features
 
 - Implements the Marching Cubes algorithm for isosurface extraction
