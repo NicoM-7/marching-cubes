@@ -7,7 +7,6 @@ A 3D isosurface visualizer built with OpenGL that uses the Marching Cubes algori
 ![Marching Cubes Screenshot 1](Screenshots/surface1.png)  
 ![Marching Cubes 2](Screenshots/surface2.png)  
 
-
 ## Features
 
 - Implements the Marching Cubes algorithm for isosurface extraction
