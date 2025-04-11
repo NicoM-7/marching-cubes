@@ -49,7 +49,7 @@ Follow these steps to configure your environment on Windows using MSYS2:
 1. Clone the repository
    ```bash
    git clone https://github.com/NicoM-7/marching-cubes.git
-   cd spline-tool
+   cd marching-cubes
    ```
 1. Open `marchingCubes.cpp` in [Visual Studio Code](https://code.visualstudio.com/)
 2. From the top menu, go to: `Terminal` → `Run Build Task`
